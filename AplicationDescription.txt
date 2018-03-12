@@ -1,0 +1,11 @@
+Aplikacja s³u¿y do obs³ugi zg³oszeñ do serwisu fikcyjnej firmy BestComputerSevice.
+Aplikacja posiada system logowania. W bazie danych tworzonej przez do³¹czony do programu skrypt jest stworzonych 4 pracowników.
+Ka¿dy ma identyczne uprawnienia dane logowania dwóch pierwszych:
+
+Pierwszy:
+	Login: Mateusz
+	Has³o: admin
+Drugi:
+	Login: Maciej
+	Has³o: admin1
+
